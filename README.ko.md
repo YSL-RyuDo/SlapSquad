@@ -123,3 +123,10 @@ CSV 저장을 사용하는 서버의 계정, 방, 상점과 프로필 처리를 
 
 
 [CSV 저장과 구매 결과 표시](https://github.com/YSL-RyuDo/BnBServer/blob/main/docs/engineering/README.ko.md), [게임플레이 영상과 스크린샷](https://ysl-ryudo.github.io/ko/work/bnb/#more-demos)
+
+
+## CISC-W 2025, 학회 발표 포스터
+
+<a href="https://ysl-ryudo.github.io/ko/research/cisc/#poster"><img src="https://ysl-ryudo.github.io/assets/research/cisc-poster-thumb.webp" alt="학회 발표 포스터" width="320"></a>
+
+[논문, 학회 발표 포스터](https://github.com/YSL-RyuDo/cisc-w-2025-game-economy)

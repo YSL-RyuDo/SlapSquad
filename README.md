@@ -123,3 +123,10 @@ Implemented server account, room, shop and profile processing with CSV persisten
 
 
 [CSV persistence and confirmed purchase feedback](https://github.com/YSL-RyuDo/BnBServer/blob/main/docs/engineering/README.md), [Gameplay recordings and screenshots](https://ysl-ryudo.github.io/en/work/bnb/#more-demos)
+
+
+## CISC-W 2025, Conference poster
+
+<a href="https://ysl-ryudo.github.io/en/research/cisc/#poster"><img src="https://ysl-ryudo.github.io/assets/research/cisc-poster-thumb.webp" alt="Conference poster" width="320"></a>
+
+[Paper, Conference poster](https://github.com/YSL-RyuDo/cisc-w-2025-game-economy)

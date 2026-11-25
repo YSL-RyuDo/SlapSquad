@@ -123,3 +123,10 @@ CSV保存を使うサーバーのアカウント、ルーム、ショップ、�
 
 
 [CSV保存と購入結果の表示](https://github.com/YSL-RyuDo/BnBServer/blob/main/docs/engineering/README.ja.md), [ゲームプレイ動画とスクリーンショット](https://ysl-ryudo.github.io/ja/work/bnb/#more-demos)
+
+
+## CISC-W 2025, 学会発表ポスター
+
+<a href="https://ysl-ryudo.github.io/ja/research/cisc/#poster"><img src="https://ysl-ryudo.github.io/assets/research/cisc-poster-thumb.webp" alt="学会発表ポスター" width="320"></a>
+
+[論文, 学会発表ポスター](https://github.com/YSL-RyuDo/cisc-w-2025-game-economy)
